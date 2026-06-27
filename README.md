@@ -42,3 +42,6 @@ Clone the repository and install the required dependencies:
 git clone [https://github.com/YOUR_USERNAME/SmartCart-Clustering.git](https://github.com/YOUR_USERNAME/SmartCart-Clustering.git)
 cd SmartCart-Clustering
 pip install pandas numpy scikit-learn matplotlib seaborn
+### 2. Running the Pipeline
+Open the project in JupyterLab:
+
